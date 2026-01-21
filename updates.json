@@ -1,11 +1,11 @@
 [
   {
-    "date": "2026-01-21",
+    "date": "2026-01-16",
     "title": "Added Be Gone Monsters! Behaviour Pack",
     "content": "I have added my Be Gone Monsters! behaviour pack from my curseforge account."
   },
   {
-    "date": "2026-01-19",
+    "date": "2025-11-07",
     "title": "Added Whisperstone Addon",
     "content": "I have added my Whisperstone addon from my curseforge account."
   },
@@ -18,5 +18,10 @@
     "date": "2026-01-15",
     "title": "UI Redesign",
     "content": "Switched to a boxy, Minecraft-inspired UI for better visual consistency."
+  },
+  {
+    "date": "2026-01-10",
+    "title": "Launcher Codezeiro's MC Labs Netlify Site",
+    "content": "I decided, I will launch a website to showcase my works.."
   }
 ]
